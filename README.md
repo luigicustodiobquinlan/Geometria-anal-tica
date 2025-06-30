@@ -1,2 +1,2 @@
-# Geometria-anal-tica
-todo meu conteúdo sobre essa disciplina
+# Geometria-analtica
+Aqui está meu conteúdo sobre essa disciplina;
